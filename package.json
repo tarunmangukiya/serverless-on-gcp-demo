@@ -16,7 +16,7 @@
   "dependencies": {
     "qrcode": "^1.4.4",
     "request": "^2.88.0",
-    "sharp": "^0.23.3",
+    "sharp": "^0.30.5",
     "stream-cache": "0.0.2"
   }
 }
